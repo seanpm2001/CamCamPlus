@@ -1,0 +1,279 @@
+<!-- Start of script !-->
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<TITLE>Cam Cam + video settings</TITLE>
+<BODY BGCOLOR="WHITE">
+<meta charset="UTF-8">
+<style type="text/css">
+H1 {
+  color: black;
+}
+H2 {
+  color: black;
+}
+H3 {
+  color: black;
+}
+H4 {
+  color: black;
+}
+H5 {
+  color: black;
+}
+H6 {
+  color: black;
+}
+p {
+  color: black;
+}
+/* Dark mode currently disabled due to input text being unchange-able by me.
+H1 {
+  color: white;
+}
+H2 {
+  color: white;
+}
+H3 {
+  color: white;
+}
+H4 {
+  color: white;
+}
+H5 {
+  color: white;
+}
+H6 {
+  color: white;
+}
+p {
+  color: white;
+}
+*/
+</style>
+<?php
+echo "PHP currently not supported"
+?>
+<script type="text/JavaScript">
+console.log("JavaScript currently not supported");
+</script>
+</HEAD>
+<BODY>
+<HR>
+<H1 Lang="en">Cam Cam video settings</H1>
+<HR>
+<H1 lang="en">Duration</H1>
+<input type="checkbox">Allow recording of videos longer than 30 minutes</input><!-- In Europe, there is a 8-14% tax on cameras that record videos longer than 29 minutes and 59 seconds. It is an outdated law !-->
+<input type="number" min="10" max="1000000000000">Video max duration (in milliseconds)</input>
+<!-- Times:
+1000 milliseconds = 1 second
+60000 milliseconds = 1 minute
+120000 milliseconds = 2 minutes
+300000 milliseconds = 5 minutes
+More to be added here
+1000000000000 milliseconds = 3.16 decades
+!-->
+<HR>
+<H1 lang="en">File format</H1>
+<form>
+<input type="radio">*.mp4</input>
+<input type="radio">*.webm</input>
+<input type="radio">*.mkv</input>
+<input type="radio">*.avi</input>
+<input type="radio">*.3gp</input>
+<input type="radio">*.svg_vid</input>
+<!-- SVG video is an experimental project, where videos are recorded in SVG format. This may significantly reduce memory, and make the video format more human readable, but it might be incredibly difficult to pull off !-->
+<input type="radio">*.wmv</input>
+<input type="radio">*.gif</input>
+<input type="radio">*.gifv<input>
+</form>
+<HR>
+<H1 lang="en">Resolution</H1>
+<select>
+  <option value="" disabled selected>Pre-defined</option>
+  <option value="">256x144</option>
+  <option value="">280x144</option>
+  <option value="">360x240</option>
+  <option value="">360x360</option>
+  <option value="">600x480</option>
+  <option value="">720x520</option>
+  <option value="">1280x720</option>
+  <option value="">1900x1200</option>
+  <option value="">1920x1080</option>
+  <option value="">2500x1080</option>
+  <option value="">2560x1440</option>
+  <option value="">3840X2160</option>
+  <option value="">7680x4320</option>
+  <option value="">15360x8640</option>
+  <option value="">30720x17280</option>
+  <option value="">61440x34400</option>
+</select>
+<input type="number" min="16" max="65536">Width</input>
+<input type="number" min="16" max="65536">Height</input>
+<HR>
+<H1 lang="en">Aspect ratio</H1>
+<select>
+  <option value="">1:1</option>
+  <option value="">1:2</option>
+  <option value="">1:3</option>
+  <option value="">1:4</option>
+  <option value="">4:1</option>
+  <option value="">4:2</option>
+  <option value="">4:3</option>
+  <option value="">4:4</option>
+  <option value="">16:9</option>
+</select>
+<HR>
+<H1 lang="en">Color</H1>
+<H2 lang="en">Bit depth</H2>
+<select>
+  <option value="">1 bit (2 colors)</option>
+  <option value="">2 bit (4 colors)</option>
+  <option value="">3 bit (8 colors)</option>
+  <option value="">4 bit (16 colors)</option>
+  <option value="">5 bit (32 colors)</option>
+  <option value="">6 bit (64 colors)</option>
+  <option value="">7 bit (128 colors)</option>
+  <option value="">8 bit (256 colors)</option>
+  <option value="">9 bit (512 colors)</option>
+  <option value="">10 bit (1024 colors)</option>
+  <option value="">11 bit (2048 colors)</option>
+  <option value="">12 bit (4096 colors)</option>
+  <option value="">13 bit (8192 colors)</option>
+  <option value="">14 bit (16384 colors)</option>
+  <option value="">15 bit (32768 colors)</option>
+  <option value="">16 bit (65536 colors)</option>
+  <option value="">17 bit (131072 colors)</option>
+  <option value="">18 bit (262144 colors)</option>
+  <option value="">19 bit (524288 colors)</option>
+  <option value="">20 bit (1048576 colors)</option>
+  <option value="">21 bit (2097152 colors)</option>
+  <option value="">22 bit (4194304 colors)</option>
+  <option value="">23 bit (8388608 colors)</option>
+  <option value="">24 bit (16777216 colors)</option>
+  <option value="">25 bit (33554432 colors)</option>
+  <option value="">26 bit (67108864 colors)</option>
+  <option value="">27 bit (134217728 colors)</option>
+  <option value="">28 bit (268435456 colors)</option>
+  <option value="">29 bit (536870912 colors)</option>
+  <option value="">30 bit (1073741824 colors)</option>
+  <option value="">31 bit (2147483648 colors)</option>
+  <option value="">32 bit (4294967296 colors)</option>
+  
+  <option value="">33 bit (8589934592 colors)</option>
+  <option value="">34 bit (17179869184 colors)</option>
+  <option value="">35 bit (34359738368 colors)</option>
+  <option value="">36 bit (68719476736 colors)</option>
+  <option value="">37 bit (137438953472 colors)</option>
+  <option value="">38 bit (274877906944 colors)</option>
+  <option value="">39 bit (549755813888 colors)</option>
+  <option value="">40 bit (1099511627776 colors)</option>
+  <option value="">41 bit (2199023255552 colors)</option>
+  <option value="">42 bit (4398046511104 colors)</option>
+  <option value="">43 bit (8796093022208 colors)</option>
+  <option value="">44 bit (17592186044416 colors)</option>
+  <option value="">45 bit (35184372088832 colors)</option>
+  <option value="">46 bit (70368744177664 colors)</option>
+  <option value="">47 bit (140737488355328 colors)</option>
+  <option value="">48 bit (281474976710656 colors)</option>
+</select>
+<H2 lang="en">Color mode</H2>
+<select>
+  <option value="">Monochrome (2 colors: black and white)</option>
+  <option value="">Greyscale</option>
+  <option value="">Full color</option>
+</select>
+<H2 lang="en">Color model</H2>
+<select>
+  <option value="">RGB</option>
+  <option value="">CMYK</option>
+</select>
+<HR>
+<H1 lang="en">Select camera</H1>
+<form>
+<input type="radio">Front camera 1</input>
+<input type="radio">Front camera 2</input>
+<input type="radio">Front camera 3</input>
+<input type="radio">Front camera 4</input>
+<input type="radio">Front camera 5</input>
+<input type="radio">Front camera 6</input>
+<input type="radio">Front camera 7</input>
+<input type="radio">Front camera 8</input>
+<input type="radio">Back camera 1</input>
+<input type="radio">Back camera 2</input>
+<input type="radio">Back camera 3</input>
+<input type="radio">Back camera 4</input>
+<input type="radio">Back camera 5</input>
+<input type="radio">Back camera 6</input>
+<input type="radio">Back camera 7</input>
+<input type="radio">Back camera 8</input>
+<input type="radio">WebCam</input>
+<input type="radio">Screen recorder</input>
+</form>
+<H2 lang="en">Screen recorder settings</H2>
+<input type="checkbox">Show watermark</input>
+<input type="number" min="0" max="60">Countdown to video</input>
+<H3 lang="en">Record which screen</H3>
+<form>
+  <input type="radio">Display 1</input>
+  <input type="radio">Display 2</input>
+  <input type="radio">Display 3</input>
+  <input type="radio">Display 4</input>
+  <input type="radio">Display 5</input>
+  <input type="radio">Display 6</input>
+  <input type="radio">Display 7</input>
+  <input type="radio">Display 8</input>
+  <input type="radio">Display 9</input>
+  <input type="radio">Display 10</input>
+  <input type="radio">Display 11</input>
+  <input type="radio">Display 12</input>
+  <input type="radio">Display 13</input>
+  <input type="radio">Display 14</input>
+  <input type="radio">Display 15</input>
+  <input type="radio">Display 16</input>
+</form>
+<input type="checkbox">Record multiple screens at once</input>
+<HR>
+  <H1 lang="en">Output location</H1>
+  <input type="text">File:////home/<users>/video</input>
+<HR>
+<H1 lang="en">Audio</H1>
+<input type="checkbox">Record audio</input>
+<HR>
+<H1 lang="en">Special</H1>
+<input type="checkbox">Enable 360° camera</input>
+<input type="checkbox">ASCII cam</input>
+<input type="checkbpx">Colored ASCII cam</input>
+<H1 lang="en">Preferences</H1>
+<H2 lang="en">Accent</H2>
+<form>
+<input type="radio">Color</input>
+<input type="radio">Colour</input>
+</form>
+<H2 lang="en">Language</H2>
+<select>
+  <option value="en-us">English (US)</option>
+  <option value="en-uk">English (UK)</option>
+  <option value="ru-ru">Russian (Russia) Русский (Россия)</option>
+  <option value="eo-eo">Esperanto</option>
+  <option value="es-spain-fem">Española (españa)</option>
+  <option value="es-spain-mas">Español (españa)</option>
+</select>
+<HR>
+<details><summary><H1 lang="en">Developer</H1></summary>
+<HR>
+<details><summary><H2 lang="en">Old versions</H2></summary>
+<p lang="en">Warning: video settings for version 1 doesn't have a built-in snapshot system. Once you go this page, there is no built-in way to go back (unless you use the back button or transition tabs</p>
+<H3 lang="en"><a href="OldVersions/VideoSettingsV1.html">Version 1 (November 3rd 2020)</a></H3>
+<H3 lang="en"><a href="OldVersions/VideoSettingsV2.html">Version 2 (November 3rd 2020)</a></H3>
+<H3 lang="en"><a href="OldVersions/VideoSettingsV3.html">Version 3 (November 3rd 2020)</a></H3>
+<H3 lang="en"><a href="OldVersions/VideoSettingsV4.html">Version 4 (Coming soon)</a></H3>
+<H3 lang="en"><a href="OldVersions/VideoSettingsV5.html">Version 5 (Coming soon)</a></H3>
+<H3 lang="en"><a href="OldVersions/VideoSettingsV6.html">Version 6 (Coming soon)</a></H3>
+</details>
+<HR>
+</details>
+<HR>
+</BODY>
+</HTML>
+<!-- End of script !-->
