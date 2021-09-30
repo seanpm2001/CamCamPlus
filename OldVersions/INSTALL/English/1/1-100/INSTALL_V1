@@ -1,0 +1,33 @@
+---
+Installing this Camera project (CamCamPlus+) by @seanpm2001
+---
+
+This project currently doesn't have to be installed to be viewed, and currently doesn't require installation, as it is not functional yet. It is still in early development, as of 2021 September 29th
+
+If you want to load the web pages, you will need to have an HTML5 framework installed (version 5.0 or higher) and the packages for any programming languages included.
+
+The current included languages include:
+
+None (v1)
+
+The project itself is written in C++. You will need to have the minimum version (2005 or later) of C++ to use/test the program.
+
+Most operating systems since 2007 (Most Linux distributions, Some BSD distributions, Windows, MacOS, Solaris, ReactOS, etc.) come with default support for this requirement, so you might not need to install the package.
+
+If not, this is thr requirement you need to meet:
+
+C++ (2005 Or better)
+
+You will also need to install the Bourne Shell (Shell/BASH) to use certain features of this program.
+
+If you want to view the image files, the majority of files are in PNG and SVG formats. Make sure your computer can handle images of 2560x1440/2560x1080 resolution well, and that your computer can handle PNG and SVG files.
+
+Some image files are in other formats, such as JPG, and GIF. You will need support for viewing these files to view these files.
+
+Some included files are in Markdown format (*.md *.mkd *.markdown) for best viewing, you should use a markdown viewer/markdown editor.
+
+Some included files are in PDF format. They should be opened with a document viewer capable of handling PDF documents.
+
+---
+Install instructions file version: 1 (Wednesday, 2021 September 29th at 11:16 pm)
+---
