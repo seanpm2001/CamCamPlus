@@ -1,0 +1,28 @@
+
+---
+
+{{int:version-credits-summary}}
+CamCamPlusPlus (Camera software by @Seanpm2001) is a collaborative project released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
+
+This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
+
+== Maintainers ==
+<!-- BEGIN MAINTAINERS LIST !-->
+
+01. @seanpm2001 - Creator and primary maintainer of the CC++ project
+02. No other contributors as of Wednesday, 2021 September 29th at 11:04 pm
+
+== Contributors ==
+<!-- BEGIN CONTRIBUTOR LIST -->
+01. @seanpm2001 (For creating the CamCamPlus+ project, among many other software and media projects)
+02. @GitHub (For GitHub, and for being the first host of this project)
+03. @Git (For the Git version control system used on this project)
+04. @Bjarne-stroustrup (Although not on GitHub, the C++ programming language was a major influence for this projects name and codebase)
+05. @DennisRitchie (For creating the language (the C programming language) that inspired Bjarne Stroustrup to create the C++ programming language)
+06. @Ken (Thompson) (For co-creating the language (the C programming language) that inspired Bjarne Stroustrup to create the C++ programming language)
+07. @Samsung (for creating the camera that got me through to creating this one, and serves as a camera I will be using until CC++ becomes stable, until I switch mobile operating systems in the near future)
+08. @EU (For creating a tax on 30+ minute video recorders that inspired a rebel movement for this project to create a FREE camera that can record videos for as long as you desire (providing you have enough storage space and interesting content))
+09. @Mobizen (For creating the Mobizen screen recorder, a screen recorder I used in the past that inspired the screen recording portion of this project
+10. No other contributors as of Wednesday, 2021 September 29th at 11:04 pm
+
+---
