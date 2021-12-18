@@ -1,0 +1,14 @@
+audio
+shell
+html
+image
+video
+camera
+cpp
+gplv3
+foss
+gopro
+professional
+global
+sony
+gpl3
