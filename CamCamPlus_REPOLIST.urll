@@ -2,10 +2,10 @@
 //// CamCamPlus_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all CamCamPlus project repositories by @seanpm2001
-//// As of 2025, Wednesday, March 5th
+//// As of 2025, Friday, March 7th
 
 //// ----------------------------------------------------- \\\\
-//// CamCamPlus Project (6)
+//// CamCamPlus Project (8)
 //// ----------------------------------------------------- \\\\
 
 //// CamCamPlus Core (1)
@@ -26,9 +26,14 @@ https://github.com/seanpm2001/CamCamPlus_Hyperslice-Extension_Docs
 https://github.com/seanpm2001/CamCamPlus_AnalogCamera-Extension
 https://github.com/seanpm2001/CamCamPlus_AnalogCamera-Extension_Docs
 
+//// CamCamPlus MoireRate Extension (2)
+
+https://github.com/seanpm2001/CamCamPlusPlus_MoireRate
+https://github.com/seanpm2001/CamCamPlusPlus_MoireRate_Docs
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (CamCamPlus): 6
-//// 1+1+2+2=6
+//// Repo count (CamCamPlus): 8
+//// 1+1+2+2+2=8
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -71,15 +76,15 @@ https://github.com/seanpm2001/Camera-privacy-specification_Docs
 //// Repo count (See also): 18
 //// 2+10+2+2+2=18
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 24
-//// 6+18=24
+//// Total repo count: 26
+//// 8+18=26
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 1 (2025, Wednesday, March 5th at 06:38 pm PST)
-//// Line count (including blank lines and compiler line): 86
+//// File version: 2 (2025, Thursday, March 6th at 05:15 pm PST)
+//// Line count (including blank lines and compiler line): 91
 //// ----------------------------------------------------- \\\\
 
 //// End of file
