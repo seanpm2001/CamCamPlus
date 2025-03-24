@@ -2,10 +2,10 @@
 //// CamCamPlus_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all CamCamPlus project repositories by @seanpm2001
-//// As of 2025, Friday, March 7th
+//// As of 2025, Monday, March 24th
 
 //// ----------------------------------------------------- \\\\
-//// CamCamPlus Project (8)
+//// CamCamPlus Project (12)
 //// ----------------------------------------------------- \\\\
 
 //// CamCamPlus Core (1)
@@ -31,9 +31,19 @@ https://github.com/seanpm2001/CamCamPlus_AnalogCamera-Extension_Docs
 https://github.com/seanpm2001/CamCamPlusPlus_MoireRate
 https://github.com/seanpm2001/CamCamPlusPlus_MoireRate_Docs
 
+//// CamCamPlus Datamosh Filters (2)
+
+https://github.com/seanpm2001/CamCamPlus_Datamosh-FIlters
+https://github.com/seanpm2001/CamCamPlus_Datamosh-FIlters_Docs
+
+//// CamCamPlus ASCII Filters Filters (2)
+
+https://github.com/seanpm2001/CamCamPlus_ASCII-Filters
+https://github.com/seanpm2001/CamCamPlus_ASCII-FIlters_Docs
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (CamCamPlus): 8
-//// 1+1+2+2+2=8
+//// Repo count (CamCamPlus): 12
+//// 1+1+2+2+2+2+2=12
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -76,15 +86,15 @@ https://github.com/seanpm2001/Camera-privacy-specification_Docs
 //// Repo count (See also): 18
 //// 2+10+2+2+2=18
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 26
-//// 8+18=26
+//// Total repo count: 30
+//// 12+18=30
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 2 (2025, Thursday, March 6th at 05:15 pm PST)
-//// Line count (including blank lines and compiler line): 91
+//// File version: 3 (2025, Monday, March 24th at 04:04 pm PST)
+//// Line count (including blank lines and compiler line): 101
 //// ----------------------------------------------------- \\\\
 
 //// End of file
